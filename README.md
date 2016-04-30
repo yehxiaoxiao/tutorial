@@ -2,4 +2,4 @@
 
 
 ## [Git](git.md)
-基本的Git操作指令
+這部份包含了基本的Git操作，可作為Reference
