@@ -6,4 +6,4 @@
 * 
 
 ## [Hackpad共筆](https://nctubluegear.hackpad.com/--jc4H7d2qLll)
-基本講述會放在Hackpad內，若需要實際範例則會把東西丟到這個Repo內
+基本講述會放在Hackpad內，實際範例則放在此Repository 內
