@@ -9,7 +9,7 @@
 * ``git commit -m "commit message"``
 * ``git log``
 
-### Add more files
+### Add all files
 * ``git add -A``
 
 ### Branch
@@ -18,9 +18,9 @@
 * ``git branch -b <new-branch>``
 
 ### Push and Pull
-* git clone http://github.com/yourAccount/repoName
-* git pull
-* git push -u origin master
+* ``git clone https://github.com/NCTUBlueGear/tutorial.git``
+* ``git pull``
+* ``git push -u origin master``
 
 # Git Tutorial: Workflow
 
