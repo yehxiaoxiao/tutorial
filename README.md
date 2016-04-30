@@ -1,9 +1,15 @@
-# 藍齒輪計畫 - 網頁開發培訓
+# 藍齒輪計畫 - 網頁從0到1一
 
 ## 簽到
-* 林廷恩
-* 某某某
+* 電機05 林廷恩
 * 
 
-## [Hackpad共筆](https://nctubluegear.hackpad.com/--jc4H7d2qLll)
-基本講述會放在Hackpad內，實際範例則放在此Repository 內
+## 基本資料
+* [Hackpad共筆](https://nctubluegear.hackpad.com/--jc4H7d2qLll)
+教學資源、問答的部份會放在Hackpad內
+
+* [Facebook社團：交大網頁研究社](https://www.facebook.com/groups/nctu.web/)
+討論、投票與分享的環節將在FB社團內進行
+
+* [Github組織：NCTUBlueGeary](https://github.com/NCTUBlueGear)
+實際範例將會放在此Repository 內，之後有些資源是組織內部only的
