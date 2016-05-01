@@ -2,7 +2,7 @@
 
 ## 簽到
 * 電機05 林廷恩
-* 
+* 機械06 黃孝宏
 
 ## 基本資料
 Hackpad共筆：[藍齒輪計畫 - 網頁從0到1](https://nctubluegear.hackpad.com/--jc4H7d2qLll)
